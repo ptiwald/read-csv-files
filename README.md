@@ -1,2 +1,2 @@
-# csv-fileanalysis-c
-read and analyze a test-csv file in c
+# read csv files in C
+develope a simple C routine to read csv files
